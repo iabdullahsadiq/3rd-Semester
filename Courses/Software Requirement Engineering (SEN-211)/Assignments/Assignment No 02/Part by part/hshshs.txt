@@ -1,0 +1,18 @@
+Sure, I can help you with that. Here is a list of events that can be included in a Garments Supply Chain Management System:
+
+1. **Product Design and Development**: This event involves designing and developing the product, including specifications such as colors, fabrics, stitching, and fastenings (buttons, zips, Velcro, and so forth) ¹.
+2. **Sourcing Raw Materials**: This event involves identifying and selecting suppliers for raw materials and parts ¹².
+3. **Order Management**: This event involves managing customer orders, including demand planning, order processing, and order fulfillment ¹.
+4. **Manufacturing**: This event involves manufacturing and assembling the goods, including quality control and inspection ¹².
+5. **Warehousing**: This event involves storing the finished products in a warehouse ¹.
+6. **Inventory Management**: This event involves managing inventory levels, including stock replenishment and stocktaking ³.
+7. **Distribution**: This event involves distributing the finished products to retailers, for sale to customers online and in brick-and-mortar stores ¹.
+
+I hope this helps!.
+
+Source: Conversation with Bing, 12/2/2023
+(1) Fashion Supply Chain: Everything You Need to Know - Oracle. https://www.oracle.com/retail/fashion/fashion-supply-chain/.
+(2) Supply Chain Management in Garments Industry - Global Journals. https://globaljournals.org/GJMBR_Volume14/4-Supply-Chain-Management-in-Garments.pdf.
+(3) Best 20 Apparel Management Software Solutions for 2023. https://financesonline.com/apparel-management.
+(4) Supply Chain Management in Apparel Industry - WFX. https://www.worldfashionexchange.com/blog/what-you-need-to-know-about-supply-chain-management-in-the-apparel-industry/.
+(5) en.wikipedia.org. https://en.wikipedia.org/wiki/Supply_chain_management.
